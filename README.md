@@ -10,6 +10,9 @@
         flex-direction: column;
         text-align: center;
         align-items: center;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
     }
     .vis-img img {
         width: 300px;
@@ -19,7 +22,8 @@
     }
     .vis-showcase {
         display: grid;
-        grid-template-columns: auto auto;
+        
+    grid-template-columns: 300px 300px;
     }
 
 </style>
