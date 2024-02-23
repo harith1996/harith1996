@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I'm a data visualization researcher at Aarhus University, Denmark.
+<p>Welcome to my GitHub! I'm a data visualization researcher at Aarhus University, Denmark.</p>
 
-I host all my research on GitHub, and I've featured a few of them below. If you're interested in data analytics with visualization, do check them out 😊
+<p>I host all my research on GitHub, and I've featured a few of them below. If you're interested in data analytics with visualization, do check them out 😊</p>
 
 <style type="text/css" rel="stylesheet">
     .vis-img {
@@ -56,6 +56,7 @@ I host all my research on GitHub, and I've featured a few of them below. If you'
 
 <br>
 <br>
+
 -   🔭 I’m currently working on visualizing data errors (missing values, duplicate entries etc.)
 -   🌱 I’m currently learning Go, for faster real-time data processing
 -   ⚙️ I use daily: TypeScript, React, D3.js, Python,
