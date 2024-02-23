@@ -4,29 +4,7 @@
 
 <p>I host all my research on GitHub, and I've featured a few of them below. If you're interested in data analytics with visualization, do check them out 😊</p>
 
-<style type="text/css" rel="stylesheet">
-    .vis-img {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        align-items: center;
-        margin-left: 10px;
-        margin-right: 10px;
-        margin-top: 10px;
-    }
-    .vis-img img {
-        width: 300px;
-    }
-    .vis-img span {
-        margin-top: 10px;
-    }
-    .vis-showcase {
-        display: grid;
-        
-    grid-template-columns: 300px 300px;
-    }
 
-</style>
 <div class="vis-showcase">
 <a href="https://github.com/harith1996/data-viz-au-2021" target="blank">
 <div class="vis-img ">
@@ -60,6 +38,30 @@
 
 <br>
 <br>
+
+
+<style type="text/css" rel="stylesheet">
+    .vis-img {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .vis-img img {
+        width: 300px;
+    }
+    .vis-img span {
+        margin-top: 10px;
+    }
+    .vis-showcase {
+        display: grid;
+        
+    grid-template-columns: 300px 300px;
+    }
+</style>
 
 -   🔭 I’m currently working on visualizing data errors (missing values, duplicate entries etc.)
 -   🌱 I’m currently learning Go, for faster real-time data processing
