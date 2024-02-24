@@ -1,3 +1,26 @@
+
+<style rel="stylesheet">
+    .vis-img {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .vis-img img {
+        width: 300px;
+    }
+    .vis-img span {
+        margin-top: 10px;
+    }
+    .vis-showcase {
+        display: grid;
+        
+    grid-template-columns: 300px 300px;
+    }
+</style>
 ### Hi there 👋
 
 <p>Welcome to my GitHub! I'm a data visualization researcher at Aarhus University, Denmark.</p>
@@ -40,28 +63,6 @@
 <br>
 
 
-<style rel="stylesheet">
-    .vis-img {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        align-items: center;
-        margin-left: 10px;
-        margin-right: 10px;
-        margin-top: 10px;
-    }
-    .vis-img img {
-        width: 300px;
-    }
-    .vis-img span {
-        margin-top: 10px;
-    }
-    .vis-showcase {
-        display: grid;
-        
-    grid-template-columns: 300px 300px;
-    }
-</style>
 
 -   🔭 I’m currently working on visualizing data errors (missing values, duplicate entries etc.)
 -   🌱 I’m currently learning Go, for faster real-time data processing
