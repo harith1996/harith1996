@@ -40,7 +40,7 @@
 <br>
 
 
-<style type="text/css" rel="stylesheet">
+<style rel="stylesheet">
     .vis-img {
         display: flex;
         flex-direction: column;
